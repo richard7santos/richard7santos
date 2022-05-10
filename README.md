@@ -3,8 +3,12 @@
 
 
 
-:mortar_board: Graduado em Análise e Desenvolvimento de Sistemas.
-:department_store: Atualmente Trabalho na Empresa Arpia Tecnologia, alocado em Squad Sustentação no Tricard Tribanco.
+
+- 🔭 I’m currently working at  [Arpia Tecnologia & Inovação](https://arpiatecnologia.com.br/).
+- 👯 I’m looking to collaborate on Open source projects.
+- 🤔 I’m looking for help with Java Backend Development.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: Every time I start a new project without finishing the old one I do one push-up.
 
 
 
