@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ### Activities:
 <div>
 	<a href="https://github.com/richard7santos" />
-		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rabispedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabispedro&layout=compact&langs_count=7&theme=dark" />
 </div>
