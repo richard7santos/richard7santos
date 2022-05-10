@@ -2,8 +2,10 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-:department_store: Atualmente Trabalho na Empresa Arpia Tecnologia, alocado em Squad Sustentação no Tricard Tribanco
-:mortar_board: Graduado em Análise e Desenvolvimento de Sistemas
+
+:mortar_board: Graduado em Análise e Desenvolvimento de Sistemas.
+:department_store: Atualmente Trabalho na Empresa Arpia Tecnologia, alocado em Squad Sustentação no Tricard Tribanco.
+
 
 
 ### Ferramentas e Tecnologias
