@@ -1,25 +1,32 @@
 ## Olá, me chamo Ricardo Santos ! 
 ### Bem vindo ao meu perfil GitHub 👋
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 - 🔭 Atualmente tabalho na  [Arpia Tecnologia & Inovação](https://arpiatecnologia.com.br/).
 - 👯 Procuro networks para aprendizagem e troca de experiências.
 - ⚡ Sou apaixonado por desafios.
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />    
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Estudando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40"  />
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Contatos
 <div>
@@ -27,6 +34,11 @@
 <a href = "mailto:richard7santos@hotmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ricardojsantos1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Atividades
 <div>
