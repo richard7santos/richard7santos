@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-- 🔭 Atualmente tabalho na  [Arpia Tecnologia & Inovação](https://arpiatecnologia.com.br/).
+- 🔭 Atualmente tabalho na  [Ci&T Tecnologia](https://ciandt.com/br/pt-br/home).
 - 👯 Procuro networks para aprendizagem e troca de experiências.
 - ⚡ Sou apaixonado por desafios.
 &nbsp;
