@@ -6,7 +6,7 @@
 &nbsp;
 
 - 🔭 Atualmente tabalho na  [Ci&T Tecnologia](https://ciandt.com/br/pt-br/home).
-- 🔭 Docente em Análise e desenvolvimento de Sistemas na [UNIPAC UBERLÂNDIA](https://unipacuberlandia.com.br). nas disciplinas de **Design de Sistemas Web (Html, Css e JavaScript**, **Programação Orientada a Objetos** e **Desenvolvimento Web com Python e Django** 
+- 🔭 Docente no curso Análise e Desenvolvimento de Sistemas na [UNIPAC UBERLÂNDIA](https://unipacuberlandia.com.br). nas disciplinas de **Design de Sistemas Web (Html, Css e JavaScript**, **Programação Orientada a Objetos** e **Desenvolvimento Web com Python e Django** 
 - 👯 Procuro networks para aprendizagem e troca de experiências.
 - ⚡ Sou apaixonado por desafios.
 &nbsp;
