@@ -6,6 +6,7 @@
 &nbsp;
 
 - 🔭 Atualmente tabalho na  [Ci&T Tecnologia](https://ciandt.com/br/pt-br/home).
+- - 🔭 Docente em Análise e desenvolvimento de Sistemas na [UNIPAC UBERLÂNDIA](https://unipacuberlandia.com.br).
 - 👯 Procuro networks para aprendizagem e troca de experiências.
 - ⚡ Sou apaixonado por desafios.
 &nbsp;
